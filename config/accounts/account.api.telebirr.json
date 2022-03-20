@@ -1,0 +1,9 @@
+{
+	"api_access_point" : "https://127.0.0.1:8080/test",
+    "app_id" : "AC5b6503d31bccb7d8252069b7671be4f7",
+	"app_key": "9ff1cace018bceffb96f75260f3ebec0",
+	"notify_url" : "http://127.0.0.1:8080/notifyurl/telebirr",
+	"return_url" : "https://t.me/onemembership_bot",
+	"short_code" : "40890",
+	"transaction_fee" : 0
+}

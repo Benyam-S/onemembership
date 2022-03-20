@@ -1,0 +1,9 @@
+{
+    "api_access_point" : "https://api.telegram.org/bot",
+    "ur_bot_api_token" : "1837635716:AAFEQDoo2Lg7CC-0B5deQkgj7FatGPwJixo",
+    "ur_bot_username": "@onemembership_bot",
+    "ur_bot_id": "1837635716",
+    "sp_bot_api_token" : "1966933030:AAFrD0QM7wPEMBPlmwxfU6ZeJ7GkqoJTBoY",
+    "sp_bot_username": "@onemembershipsp_bot",
+    "sp_bot_id": "1966933030"
+}

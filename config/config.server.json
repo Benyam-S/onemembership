@@ -1,0 +1,32 @@
+{
+  "redis_client": {
+    "user": "root",
+    "password": "",
+    "address": "localhost",
+    "port": "6379",
+    "database": "0"
+  },
+  "mysql_client": {
+    "user": "root",
+    "password": "0911732688",
+    "address": "127.0.0.1",
+    "port": "3306",
+    "database": "onemembership"
+  },
+  "bot_domain_address": "localhost",
+  "bot_client_server_port": "8080",
+  "logs_path" : "C:/Users/Administrator/go/src/github.com/Benyam-S/onemembership_user/log/logs",
+  "archives_path" : "C:/Users/Administrator/go/src/github.com/Benyam-S/onemembership_user/log/archives",
+  "logs" : {
+    "user_log_file": "user.log",
+    "service_provider_log_file": "service.provider.log",
+    "subscription_log_file": "subscription.log",
+    "subscription_history_log_file": "subscription.history.log",
+    "project_log_file": "project.log",
+    "deleted_log_file": "deleted.log",
+    "server_log_file": "server.log",
+    "bot_log_file": "bot.log",
+    "error_log_file": "error.log",
+    "archive_log_file": "archive.log"
+  }
+}

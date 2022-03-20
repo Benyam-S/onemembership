@@ -1,0 +1,5 @@
+CREATE TABLE client_preferences (
+    client_id VARCHAR(255) PRIMARY KEY UNIQUE NOT NULL,
+    language VARCHAR(255) NOT NULL DEFAULT 'en',
+    FOREIGN KEY (language) REFERENCES languages(code) ON DELETE CASCADE ON UPDATE CASCADE
+);
