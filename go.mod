@@ -3,7 +3,7 @@ module github.com/Benyam-S/onemembership
 go 1.16
 
 require (
-	github.com/Benyam-S/go-tg-bot v0.0.1 // test
+	github.com/Benyam-S/go-tg-bot v0.0.1
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/go-faster/errors v0.5.0
 	github.com/go-redis/redis v6.15.9+incompatible
