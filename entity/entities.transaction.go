@@ -25,6 +25,7 @@ type SubscriptionTransaction struct {
 	TimeoutExpress int64
 	Nonce          string
 	OutTradeNo     string
+	TradeNo        string
 	Status         string // Can be used to identify the status of the transaction
 	InitiatedFrom  string // Indicates from which interface the request was initiated such as from bot or web
 	CreatedAt      time.Time
@@ -46,6 +47,7 @@ type SPSubscriptionTransaction struct {
 	TimeoutExpress int64
 	Nonce          string
 	OutTradeNo     string
+	TradeNo        string
 	Status         string // Can be used to identify the status of the transaction
 	CreatedAt      time.Time
 	UpdatedAt      time.Time
